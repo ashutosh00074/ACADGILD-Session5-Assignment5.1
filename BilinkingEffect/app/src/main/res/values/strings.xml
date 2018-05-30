@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bilinking Effect</string>
+    <string name="text">This is Fade In Animation</string>
+    <string name="btnfadein">START ANIMATION</string>
+</resources>
